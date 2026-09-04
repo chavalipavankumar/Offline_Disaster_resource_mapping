@@ -1,0 +1,17 @@
+[
+  {
+    "file": "C:\\Users\\chava\\OneDrive\\Desktop\\Major project\\lifeline-offline-disaster-resource-mapper\\components\\bluetooth-sync.tsx",
+    "line": 7,
+    "msg": "Unexpected any. Specify a different type."
+  },
+  {
+    "file": "C:\\Users\\chava\\OneDrive\\Desktop\\Major project\\lifeline-offline-disaster-resource-mapper\\components\\bluetooth-sync.tsx",
+    "line": 15,
+    "msg": "Unexpected any. Specify a different type."
+  },
+  {
+    "file": "C:\\Users\\chava\\OneDrive\\Desktop\\Major project\\lifeline-offline-disaster-resource-mapper\\components\\bluetooth-sync.tsx",
+    "line": 33,
+    "msg": "Unexpected any. Specify a different type."
+  }
+]
